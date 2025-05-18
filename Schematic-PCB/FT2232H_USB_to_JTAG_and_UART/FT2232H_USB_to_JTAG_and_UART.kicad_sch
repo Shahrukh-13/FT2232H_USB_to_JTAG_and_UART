@@ -8929,7 +8929,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "470"
 			(at 125.984 172.72 90)
 			(effects
 				(font
